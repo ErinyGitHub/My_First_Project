@@ -1,7 +1,6 @@
-# My_First_Project
-My First Project as a beginner
+# alx-pre_course
+
+I'm now a ALX Student, this is my first repository as a full-stack engineer
 
 
 
-#in the beginning
-##at 22-8-2023
